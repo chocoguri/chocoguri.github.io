@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <Kim> <Seong Yun>
-  email:             <jagsoung@daum.net>
+  name:              Kim Seong Yun
+  email:             jagsoung@daum.net
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -24,8 +24,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          <https://github.com/chocoguri/chocoguri.github.io>
-    email:           <jagsoung@daum.net>
+    github:          https://github.com/chocoguri/chocoguri.github.io
+    email:           jagsoung@daum.net
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -36,7 +36,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       <https://www.instagram.com/peach_star08/>
+    instagram:       https://www.instagram.com/peach_star08/
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
