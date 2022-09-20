@@ -42,15 +42,15 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Kim Seong Yun
+  email:               jagsoung@daum.net
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Resume
-    url:               /resume/
+  - title:             Example
+    url:               /example
   - title:             Documentation
     url:               /docs/
   - title:             About
