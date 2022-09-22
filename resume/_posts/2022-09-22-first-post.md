@@ -4,7 +4,4 @@ title:  "first post!"
 date:   2022-09-22 18:52:40 +0900
 categories: resume
 ---
-This is an H1
-===
-This is ans H2
----
+mark down is my first thing
