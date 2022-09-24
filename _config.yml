@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title:             Resume
-    url:               /resume/
+  - title:             Backend
+    url:               /backend/
   - title:             Documentation
     url:               /docs/
   - title:             About
