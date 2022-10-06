@@ -52,6 +52,8 @@ menu:
     url:               /example/
   - title:             Backend
     url:               /backend/
+  - title:             Study
+    url:               /study/
   - title:             Documentation
     url:               /docs/
   - title:             About
